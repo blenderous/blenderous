@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harish
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on open source react projects
+- 💞️ I’m looking to collaborate on open source javascript projects
 - 📫 How to reach me: hponenonly@gmail.com
 
 <!---
